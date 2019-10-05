@@ -18,6 +18,7 @@
             </intent-filter>
         </activity>
         <activity android:name=".ActivityB" />
+        <activity android:name=".ActivityC" />
     </application>
 
 </manifest>

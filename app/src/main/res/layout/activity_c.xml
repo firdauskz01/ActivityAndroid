@@ -9,25 +9,13 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="INI ADALAH ACTIVITY B"
+        android:text="INI ADALAH ACTIVITY C"
         android:textColor="@android:color/black"
         android:textSize="20sp" />
-
-    <EditText
-        android:id="@+id/etKirimData"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:hint="Kirim Data ke C"/>
-    <Button
-        android:id="@+id/btnKirimDataKeC"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Kirim Data Ke C"/>
-
 
     <Button
         android:id="@+id/btnKeluarB"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Keluar B" />
+        android:text="Keluar C" />
 </LinearLayout>
